@@ -14,9 +14,9 @@ A clear and concise description of what is needed and why this would be helpful 
 
 A clear and concise description of what you want to happen. 
 
-**Who is the target user for this? **
+**Who is the target user for this?**
 
-**Will it need to be maintained? **
+**Will it need to be maintained?**
 
 **Who should have access?**
 
