@@ -8,8 +8,8 @@
 ### How-to Guide
 1. Download Teamviewer software and install on the machine you intend to use to connect to the jumpbox.
 2. After installation, open Teamviewer and sign in using the lab credentials you have been provided
-3. Since this is a shared account, you will see previous connections, select the connection associated with your name (e.g. 49th_Jumpbox_Seanold) ![](https://github.com/DrJZoidberg/lab-documentation/blob/master/guides/resources/recent_connections.PNG)
-4. Select the jumpbox you need and in the right menu select the connect with password option. ![](https://github.com/DrJZoidberg/lab-documentation/blob/master/guides/resources/connection_option.PNG)
-5. After a successful connection you will be on the jumpbox in whatever state it was last left in. *Note*: Most jumpboxes have a timeout so after a few minutes they will be in a locked state. ![](https://github.com/DrJZoidberg/lab-documentation/blob/master/guides/resources/connection_option.PNG)
-6. If you need to send key combinations to the remote box, the top menu of the teamviewer program will let you do so [Ctrl+Alt+Del] ![](https://github.com/DrJZoidberg/lab-documentation/blob/master/guides/resources/connection_options.PNG)
-7. Disconnecting: When disconnecting best practice is to purposefully terminate the connection and not just close the program windows. ![](https://github.com/DrJZoidberg/lab-documentation/blob/master/guides/resources/end_session.PNG)
+3. Since this is a shared account, you will see previous connections, select the connection associated with your name (e.g. 49th_Jumpbox_Seanold) ![](resources/recent_connections.PNG)
+4. Select the jumpbox you need and in the right menu select the connect with password option. ![](resources/connection_option.PNG)
+5. After a successful connection you will be on the jumpbox in whatever state it was last left in. *Note*: Most jumpboxes have a timeout so after a few minutes they will be in a locked state. ![](resources/connection_option.PNG)
+6. If you need to send key combinations to the remote box, the top menu of the teamviewer program will let you do so [Ctrl+Alt+Del] ![](resources/connection_options.PNG)
+7. Disconnecting: When disconnecting best practice is to purposefully terminate the connection and not just close the program windows. ![](resources/end_session.PNG)
